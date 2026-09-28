@@ -58,7 +58,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 
 ### CSVの種類
 * オリジナル学習データベース（スプレッドシート）から以下のような.csvファイルを抽出できます
-https://docs.google.com/spreadsheets/d/1hhQGJZJyuUzygikoteQMmnXlfWEoNTti7C5zuS0sTCM/edit?gid=0#gid=0
+* [基本情報技術者対策（スプレッドシート）](https://docs.google.com/spreadsheets/d/1hhQGJZJyuUzygikoteQMmnXlfWEoNTti7C5zuS0sTCM/edit?gid=0#gid=0)
 
 | ファイル | 内容 |
 | --- | --- |
